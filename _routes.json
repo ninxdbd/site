@@ -1,6 +1,5 @@
 {
   "version": 1,
-  "include": ["/*"],
-  "exclude": ["/assets/*"],
-  "fallback": "/index.html"
+  "include": [],
+  "exclude": ["/*"]
 }
